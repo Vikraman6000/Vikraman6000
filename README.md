@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Chennai</h3>
 
 <img src="https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRmbmdlrWZlbWU.jpg"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikraman6000&label=Profile%20views&color=0e75b6&style=flat" alt="vikraman6000" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikraman6000&label=Profile%200views&color=0e75b6&style=flat" alt="vikraman6000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikraman6000" alt="vikraman6000" /></a> </p>
 
