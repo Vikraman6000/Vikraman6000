@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vikraman R</h1>
 <h3 align="center">A Passionate Java and frontend developer.</h3>
+
 <img src="git_img.jpg" alt="Eat,Sleep,Code,Repeat">
 
 - 🌱 I’m currently learning **Javascript**
