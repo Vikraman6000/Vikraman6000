@@ -5,13 +5,13 @@
 
 <img src="/git_img.jpg" alt="Eat,Sleep,Code,Repeat">
 
-- 🌱 I’m currently learning **Javascript**
+-  I’m currently learning **Javascript**
 
-- 💬 Ask me about **Java**
+-  Ask me about **Java**
 
-- 📫 Reach me at  **vikramanjosephite@gmail.com**
+-  Reach me at  **vikramanjosephite@gmail.com**
 
-- ⚡ Fun fact **I am a Gamer**
+-  Fun fact **I am a Gamer**
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikraman6000&show_icons=true&locale=en&layout=compact" alt="vikraman6000" /></p>
