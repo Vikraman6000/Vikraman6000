@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Vikraman R</h1>
 <h3 align="center">A Passionate Java Programmer and Frontend Developer.</h3>
 
-<!-- <img src="/git_img.jpg" alt="Eat,Sleep,Code,Repeat"> -->
+<!-- <img alt="Eat,Sleep,Code,Repeat" src="git_img.jpg"> -->
+ ![git_img](https://github.com/Vikraman6000/Vikraman6000/assets/94913027/5437444a-8018-4471-bddf-efba0b433248)
+</br>
 
 -  I’m currently learning **Javascript**
 
