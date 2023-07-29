@@ -1,20 +1,21 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Vikraman R</h1>
-<h3 align="center">A Passionate Java Programmer and Frontend Developer.</h3>
+<h3 align="center">A Passionate Java Programmer and FullStack Developer.</h3>
 
 <!-- <img alt="Eat,Sleep,Code,Repeat" src="git_img.jpg"> -->
  ![git_img](https://github.com/Vikraman6000/Vikraman6000/assets/94913027/5437444a-8018-4471-bddf-efba0b433248)
 </br>
 
--  I’m currently learning **Javascript**
+-  I am Learning **Full Stack Developement**
 
--  Ask me about **Java**
+-  I’m quite Strong in **Problem Solving**.
+
+-  Favoutite Programming Language **Java**
 
 -  Reach me at  **vikramanjosephite@gmail.com**
 
 -  Fun fact **I am a Gamer**
-
 
 
 <p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikraman6000&show_icons=true&locale=en&layout=compact" alt="vikraman6000" /></p>
